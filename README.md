@@ -1,3 +1,4 @@
+![MasterHead](https://www.intelegain.com/wp-content/uploads/2019/08/1_OF0xEMkWBv-69zvmNs6RDQ.gif)
 <h1 align="center">Hi 👋, I'm Rohith Andanala</h1>
 <h3 align="center">A metallurgist and a self learned programmer</h3>
 <Img align="right" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
