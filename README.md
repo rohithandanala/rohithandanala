@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohith Andanala</h1>
 <h3 align="center">A metallurgist and a self learned programmer</h3>
+<Img align="right" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithandanala&label=Profile%20views&color=0e75b6&style=flat" alt="rohithandanala" /> </p>
 
