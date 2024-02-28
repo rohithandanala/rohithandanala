@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **andanala.rohith357@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F-WB8Nzi-g4TeLzfpVNOlObVIU-I6RLS/view?usp=drivesdk](https://drive.google.com/file/d/1F-WB8Nzi-g4TeLzfpVNOlObVIU-I6RLS/view?usp=drivesdk)
-
 - ⚡ Fun fact **I am a part time astronaut 🧑🏻‍🚀**
 
 <h3 align="left">Connect with me:</h3>
